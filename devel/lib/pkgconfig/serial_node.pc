@@ -1,0 +1,8 @@
+prefix=/home/orangepi/Desktop/ROS_Project/ros_to_stm32/devel
+
+Name: serial_node
+Description: Description of serial_node
+Version: 0.0.0
+Cflags: -I/home/orangepi/Desktop/ROS_Project/ros_to_stm32/devel/include
+Libs: -L${prefix}/lib 
+Requires: roscpp rospy serial std_msgs message_runtime

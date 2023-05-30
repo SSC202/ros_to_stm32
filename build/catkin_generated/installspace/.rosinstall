@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/orangepi/Desktop/ROS_Project/ros_to_stm32/install/setup.sh

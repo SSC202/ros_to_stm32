@@ -1,0 +1,2 @@
+serial_node
+-DCATKIN_DEVEL_PREFIX=/home/orangepi/Desktop/ROS_Project/ros_to_stm32/devel -DCMAKE_INSTALL_PREFIX=/home/orangepi/Desktop/ROS_Project/ros_to_stm32/install -G Unix Makefiles
